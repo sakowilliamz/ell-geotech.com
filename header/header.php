@@ -57,34 +57,34 @@
 
 
 		<!-- Bootstrap Min CSS --> 
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<!-- Owl Theme Default Min CSS --> 
-		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+		<link rel="stylesheet" href="css/owl.theme.default.min.css">
 		<!-- Owl Carousel Min CSS --> 
-		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="css/owl.carousel.min.css">
 		<!-- Owl Magnific Popup Min CSS --> 
-		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+		<link rel="stylesheet" href="css/magnific-popup.min.css">
 		<!-- Animate Min CSS --> 
-		<link rel="stylesheet" href="assets/css/animate.min.css">
+		<link rel="stylesheet" href="css/animate.min.css">
 		<!-- Boxicons Min CSS --> 
-		<link rel="stylesheet" href="assets/css/boxicons.min.css"> 
+		<link rel="stylesheet" href="css/boxicons.min.css"> 
 		<!-- Flaticon CSS --> 
-		<link rel="stylesheet" href="assets/css/flaticon.css">
+		<link rel="stylesheet" href="css/flaticon.css">
 		<!-- Meanmenu Min CSS -->
-		<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+		<link rel="stylesheet" href="css/meanmenu.min.css">
 		<!-- Nice Select Min CSS -->
-		<link rel="stylesheet" href="assets/css/nice-select.min.css">
+		<link rel="stylesheet" href="css/nice-select.min.css">
 		<!-- Odometer Min CSS-->
-		<link rel="stylesheet" href="assets/css/odometer.min.css">
+		<link rel="stylesheet" href="css/odometer.min.css">
 		<!-- Style CSS -->
-		<link rel="stylesheet" href="assets/css/style.css">
+		<link rel="stylesheet" href="css/style.css">
 		<!-- Dark CSS -->
-		<link rel="stylesheet" href="assets/css/dark.css">
+		<link rel="stylesheet" href="css/dark.css">
 		<!-- Responsive CSS -->
-		<link rel="stylesheet" href="assets/css/responsive.css">
+		<link rel="stylesheet" href="css/responsive.css">
 		
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" href="../assets/img/logo-Ell-Geo-Unlimited-Wifi.png">
+		<link rel="icon" type="image/png" href="img/logo-Ell-Geo-Unlimited-Wifi.png">
 		<!-- Title -->
 		<title>Ell-Geo Tech - Cyber Security Expert</title>
 
