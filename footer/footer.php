@@ -161,36 +161,36 @@
     	<!-- End Go Top Area -->
 
 		<!-- Jquery Min JS -->
-		<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script> 
+		<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery.min.js"></script> 
 		<!-- Bootstrap Bundle Min JS -->
-		<script src="assets/js/bootstrap.bundle.min.js"></script>
+		<script src="js/bootstrap.bundle.min.js"></script>
 		<!-- Meanmenu Min JS -->
-		<script src="assets/js/meanmenu.min.js"></script>
+		<script src="js/meanmenu.min.js"></script>
 		<!-- Owl Carousel Min JS -->
-		<script src="assets/js/owl.carousel.min.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
 		<!-- Owl Carousel Thumbs Min JS -->
-		<script src="assets/js/carousel-thumbs.min.js"></script>
+		<script src="js/carousel-thumbs.min.js"></script>
 		<!-- Wow Min JS -->
-		<script src="assets/js/wow.min.js"></script>
+		<script src="js/wow.min.js"></script>
 		<!-- Nice Select Min JS -->
-		<script src="assets/js/nice-select.min.js"></script>
+		<script src="js/nice-select.min.js"></script>
 		<!-- Magnific Popup Min JS -->
-		<script src="assets/js/magnific-popup.min.js"></script>
+		<script src="js/magnific-popup.min.js"></script>
 		<!-- Ofi Min JS --> 
-		<script src="assets/js/ofi.min.js"></script>
+		<script src="js/ofi.min.js"></script>
 		<!-- jarallax Min JS --> 
-		<script src="assets/js/jarallax.min.js"></script>
+		<script src="js/jarallax.min.js"></script>
 		<!-- Appear Min JS --> 
-		<script src="assets/js/appear.min.js"></script>
+		<script src="js/appear.min.js"></script>
 		<!-- Odometer JS --> 
-		<script src="assets/js/odometer.min.js"></script>
+		<script src="js/odometer.min.js"></script>
 		<!-- Form Validator Min JS -->
-		<script src="assets/js/form-validator.min.js"></script>
+		<script src="js/form-validator.min.js"></script>
 		<!-- Contact JS -->
-		<script src="assets/js/contact-form-script.js"></script>
+		<script src="js/contact-form-script.js"></script>
 		<!-- Ajaxchimp Min JS -->
-		<script src="assets/js/ajaxchimp.min.js"></script>
+		<script src="js/ajaxchimp.min.js"></script>
 		<!-- Custom JS -->
-		<script src="assets/js/custom.js"></script>
+		<script src="js/custom.js"></script>
 		
 
