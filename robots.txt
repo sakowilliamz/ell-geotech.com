@@ -1,0 +1,5 @@
+user-agent: *
+Disallow: /sitemap.xml
+Disallow: /robots.txt
+
+sitemap: https://mrh4ck3r.com/sitemap.xml
